@@ -1,0 +1,14 @@
+C:\Users\Tien\source\repos\th2.2\th2.2\bin\Debug\th2.2.exe.config
+C:\Users\Tien\source\repos\th2.2\th2.2\bin\Debug\th2.2.exe
+C:\Users\Tien\source\repos\th2.2\th2.2\bin\Debug\th2.2.pdb
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2.2.csproj.AssemblyReference.cache
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2._2.Form1.resources
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2._2.Properties.Resources.resources
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2.2.csproj.GenerateResource.cache
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2.2.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2.2.exe
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2.2.pdb
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2._2.Form4.resources
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2._2.Form2.resources
+C:\Users\Tien\source\repos\th2.2\th2.2\obj\Debug\th2._2.Form3.resources

@@ -1,0 +1,12 @@
+C:\Users\Tien\source\repos\th2\th2\bin\Debug\th2.exe.config
+C:\Users\Tien\source\repos\th2\th2\bin\Debug\th2.exe
+C:\Users\Tien\source\repos\th2\th2\bin\Debug\th2.pdb
+C:\Users\Tien\source\repos\th2\th2\obj\Debug\th2.csproj.AssemblyReference.cache
+C:\Users\Tien\source\repos\th2\th2\obj\Debug\th2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tien\source\repos\th2\th2\obj\Debug\th2.Form1.resources
+C:\Users\Tien\source\repos\th2\th2\obj\Debug\th2.Properties.Resources.resources
+C:\Users\Tien\source\repos\th2\th2\obj\Debug\th2.csproj.GenerateResource.cache
+C:\Users\Tien\source\repos\th2\th2\obj\Debug\th2.csproj.CoreCompileInputs.cache
+C:\Users\Tien\source\repos\th2\th2\obj\Debug\th2.exe
+C:\Users\Tien\source\repos\th2\th2\obj\Debug\th2.pdb
+C:\Users\Tien\source\repos\th2\th2\obj\Debug\th2.Form2.resources

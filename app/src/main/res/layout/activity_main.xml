@@ -1,0 +1,98 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/a"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tên người thuê:" />
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="312dp"
+        android:layout_height="71dp"
+        android:hint="Nhập tên người thuê" />
+
+    <TextView
+        android:layout_width="109dp"
+        android:layout_height="wrap_content"
+        android:text="Số điện thoại:" />
+
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="378dp"
+        android:layout_height="50dp"
+        android:hint="Nhập số điện thoại"
+        android:inputType="phone" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ngày thuê trọ:" />
+
+    <EditText
+        android:id="@+id/editTextStartDate"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Chọn ngày thuê"
+        android:inputType="date" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Số lượng người:" />
+
+    <EditText
+        android:id="@+id/editTextNumberOfPeople"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập số người thuê"
+        android:inputType="number" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tình trạng đóng tiền:" />
+
+    <EditText
+        android:id="@+id/editTextPaymentStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập tình trạng đóng tiền" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Số phòng:" />
+
+    <EditText
+        android:id="@+id/editTextRoomNumber"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:hint="Nhập số phòng"
+        android:inputType="number" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="thêm" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="xóa" />
+
+</LinearLayout>
